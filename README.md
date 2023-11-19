@@ -11,13 +11,15 @@ made after these treatments. These data are taken from a larger
 dataset, described in  Rousseauw et al, 1983, South African Medical
 Journal. 
 
-sbp		systolic blood pressure
-tobacco		cumulative tobacco (kg)
-ldl		low densiity lipoprotein cholesterol
-adiposity
-famhist		family history of heart disease (Present, Absent)
-typea		type-A behavior
-obesity
-alcohol		current alcohol consumption
-age		age at onset
-chd		response, coronary heart disease
+|Variable|Description|
+|---|---|
+|sbp|		systolic blood pressure
+|tobacco|		cumulative tobacco (kg)
+|ldl|		low densiity lipoprotein cholesterol
+|adiposity| amount of body fat
+|famhist|		family history of heart disease (Present, Absent)
+|typea|		type-A behavior
+|obesity| BMI
+|alcohol|		current alcohol consumption
+|age|		age at onset
+|chd|		response, coronary heart disease
